@@ -1,19 +1,19 @@
 [+] Found func : Invoke-ServiceAbuse
-  [>] Replaced by: CVDkBjgSQISkvJceDhYoeeqbtMIikWpdEtvmfqEn
+  [>] Replaced by: ssGQZcRYVKxMRsTLJNPWxMiNhPzcnLlqzlIiAXpg
   [>] Original params:
   [>] Obfuscated with:
 
 [+] Found func : Invoke-PatchDll
-  [>] Replaced by: crHpcdQEpMLwkieUzWACqnBidITBSwtJQaaUpgNmV
+  [>] Replaced by: lPtCcYAPOskoVWKdYjPgRryPmiIpURiTvZoSsFkaX
   [>] Original params:
   [>] Obfuscated with:
 
 [+] Found func : Invoke-EventVwrBypass
-  [>] Replaced by: vfjosiAqjpTZoWPJZOatewFpiAFJRevnZhALPaiV
+  [>] Replaced by: LQDWHSfLSmgqFbtWqaBbQhaEYcALgWMsbxZlZXpyz
   [>] Original params:
   [>] Obfuscated with:
 
 [+] Found func : Invoke-PrivescAudit
-  [>] Replaced by: wunnUdxpNzOQgPlpgOYjcQpAjSxYegiyUdHiJWCMB
+  [>] Replaced by: WFyCugMjroRiYhcjOcLPtdcqgpPCBlfhQdnjVAfK
   [>] Original params: $htmlreport, $format
   [>] Obfuscated with: $htmlreport, $format
